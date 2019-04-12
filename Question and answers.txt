@@ -5,10 +5,10 @@ X	Product Owner
 	Development Team
 
 Which statement is true when continuously deploying using a DevOps model?
-X	It alleviates the reliance on the skill sets of Agile teams
+	It alleviates the reliance on the skill sets of Agile teams
 	It increases the transaction cost
 	It removes the need to automate processes
-	It lessens the severity and frequency of release failures
+X	It lessens the severity and frequency of release failures
 
 What is the best measure of progress for complex system development?
 	Iteration Review
@@ -29,16 +29,16 @@ What is one of the Agile Release Train sync meetings?
 X	Solution Demo
 
 What is the recommended way to express a Feature?
-	Phrase, benefit hypothesis, and acceptance criteria
+X	Phrase, benefit hypothesis, and acceptance criteria
 	Functional requirement
 	Epic hypothesis statement
-X	Lean business case
+	Lean business case
 
 Which statement is true about DevOps?
 	Measurements are not a top priority for DevOps
 	Lean-Agile principles are not necessary for a successful DevOps implementation
-	DevOps automation of testing reduces the holding cost
-X	DevOps is an approach to bridge the gap between development and operations
+X	DevOps automation of testing reduces the holding cost
+	DevOps is an approach to bridge the gap between development and operations
 
 
 How are stories estimated in SAFe?

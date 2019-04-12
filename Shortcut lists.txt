@@ -1,0 +1,18 @@
+
+The Goal of DevOps
+	Increases the frequency and quality of deployments
+	Improves innovation and risk-taking by making it safer to experiment Realizes faster time to market
+	Improves solution quality and shortens the lead time for fixes
+	Reduces the severity and frequency of release failures
+	Improves the Mean Time to Recovery (MTTR)
+
+Responsibilities of Product Management 
+	Understand customer needs and validate solutions
+	Understand and support portfolio work
+	Develop and communicate the program vision and roadmap
+	Manage and prioritize the flow of work
+	Participate in PI planning 
+	Define releases and program increments
+	Work with System Architect/Engineering to understand Enabler work
+	Participate in demos and Inspect and Adapt (I&A)
+	Build an effective Product Management/Product Owner team
