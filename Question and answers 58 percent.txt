@@ -1,0 +1,280 @@
+What is one benefit of unlocking the intrinsic motivation of knowledge workers?
+To centralize decision-making
+To strive to achieve a state of continuous flow
+X To provide autonomy with purpose, mission, and minimum constraints
+To lower WIP limits
+
+What is the foundation of the SAFe House of Lean?
+Value
+X Leadership
+Relentless Improvement
+Flow
+
+Who has content authority to make decisions at the user story level during PI Planning?
+X Product Owner
+Development Team
+Release Train Engineer
+Scrum Masters
+
+When is a Pre-PI Planning event needed?
+When teams cannot identify and estimate Stories in PI Planning and need more time to prepare
+When there is only one day to run PI Planning, so more time is needed to prepare to run it effectively
+X When Product Owners and Scrum Masters need to coordinate dependencies within the Agile Release Train
+When multiple Agile Release Trains working on the same Solution need to align and coordinate
+
+What is the biggest benefit of decentralized decision-making?
+Delivering value in the shortest sustainable lead time
+Removing accountability from leaders
+X Ensuring strategic decisions are not made in a vacuum
+Creating better visualization
+
+What is one component of the Continuous Delivery Pipeline?
+Continuous Cadence
+Continuous Planning
+Continuous Improvement
+Continuous Exploration
+
+What is the recommended way to express a Feature?
+Epic hypothesis statement
+Lean business case
+Functional requirement
+X Phrase, benefit hypothesis, and acceptance criteria
+
+When does a Roadmap become a queue?
+When it contains Features and not Epics
+When it is longer than one Program Increment
+When it is fully committed
+X When it includes no commitments
+
+Who has content authority to make decisions at the user story level during PI Planning?
+Scrum Masters
+X Product Owner
+Release Train Engineer
+Development Team
+
+In the Program Kanban some steps have Work-in-Process limits. Why is this necessary?
+To enable multitasking
+X To help continuous deployment
+To ensure large queues are not being built
+To keep timebox goals
+
+Which practice helps with a test-first mentality?
+X BDD
+WIP
+MVP
+MMF
+
+What is SAFe’s release strategy?
+Release continuously
+Release on cadence
+X Release on demand
+Release every Program Increment
+
+What is one guardrail on Lean budget spend?
+X Continuous Business Owner engagement
+Participatory budgeting
+Learning milestones as objective measurements
+Spending caps for each ART
+
+When basing decisions on economics, how are lead time, product cost, value, and development expense used?
+To take into account sunk costs
+X To identify different parameters of the economic framework
+To limit WIP through the system
+To recover money already spent
+
+Product Management has content authority over the Program Backlog. What do Product Owners have content authority over?
+Portfolio Vision
+Portfolio Backlog
+X Team Backlog
+Value Streams
+
+Which statement is a principle of the Agile manifesto?
+Measure everything
+Respect for people and culture
+X Simplicity--the art of maximizing the amount of work not done--is essential
+Visualize and limit WIP, reduce batch sizes, and manage queue lengths
+
+What is considered an anti-pattern when assigning business values to Team PI Objectives?
+Business Owners assigning the business value
+X Business Owners assign high values to important enabler work
+A value of 10 given to all of the PI Objectives
+Assigning business values to stretch objectives
+
+
+What can be used as a template for putting SAFe into practice within an organization?
+SAFe Principles
+X SAFe Implementation Roadmap
+SAFe House of Lean
+SAFe Core Values
+
+What is the recommended frequency for updating Lean budget distribution?
+Twice annually
+X Every iteration
+Annually
+On demand
+
+What are the three primary keys to implementing flow? (Choose three.)
+X Reduce the batch sizes of work
+Increase capacity
+Address the systemic problems
+Frequent context switching
+X Manage queue lengths
+X Visualize and limit WIP
+
+What is found on a program board?
+X Epics
+Features
+User Stories
+Tasks
+
+On day two of PI Planning, management presents adjustments based on the previous day's management review and problem solving meeting. What is one possible type of adjustment they could make?
+X Adjustment to PI Objectives
+User Stories
+Change a team’s plan
+Business priorities
+
+Which statement describes aspects of the team's commitment during PI Planning?
+A team commits to all the features they put on the Program Board
+X A team commits to all stories they put on their PI plan
+A team commits only to the PI Objectives with the highest business value
+A team does not commit to stretch objectives
+
+Which statement is true about the Innovation and Planning (IP) Iteration?
+The Scrum Master can decide if the IP Iteration is necessary
+Without the IP Iteration, there is a risk that the tyranny of the urgent outweighs all innovation activities
+X It is used annually when the team needs to refocus on work processes
+It is used as a weekly sync point between the Scrum Masters
+
+How is the flow of Portfolio Epics managed?
+X In the Portfolio Backlog
+In the Program Backlog
+In the Program Kanban
+In the Portfolio Kanban
+
+What is the best measure of progress for complex system development?
+Iteration Review
+X System Demo
+ROAMing Risks
+Refined Backlog
+
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a "Get out of the office" mindset?
+Relentless improvement
+X Innovation
+Flow
+Respect for people and culture
+
+The Agile Release Train uses which type of teams to get work done?
+Management teams
+Solution teams
+Cross-functional teams
+X Phased review process teams
+
+Which statement fits with the SAFe Core Value of Built-in Quality?
+Quality depends on the scale of the project and should be implemented from the top down
+Quality is not part of the SAFe Core Values
+X You cannot scale crappy code
+Quality should only be worked on during the Innovation and Planning Iteration
+
+How are stories estimated in SAFe?
+Ideal time
+Feature points
+X Story points
+Agile prescribes a No Estimation concept to speed delivery
+
+What must management do for a successful Agile transformation?
+Send someone to represent management, and then delegate tasks to these individuals
+Change Scrum Masters in the team every two weeks
+Strive to think of adoption as an area they can control
+X Commit to quality and be the change agent in the system
+
+Which statement is true about DevOps?
+Lean-Agile principles are not necessary for a successful DevOps implementation
+DevOps is an approach to bridge the gap between development and operations
+Measurements are not a top priority for DevOps
+X DevOps automation of testing reduces the holding cost
+
+Which statement is true when continuously deploying using a DevOps model?
+It alleviates the reliance on the skill sets of Agile teams
+It increases the transaction cost
+It removes the need to automate processes
+X It lessens the severity and frequency of release failures
+
+What is an example of applying cadence-based synchronization in SAFe?
+Teams allow batch sizes across multiple intervals
+Teams meet twice every PI to plan and schedule capacity
+Teams decide their own iteration length
+X Teams align their iterations to the same schedule to support communication, coordination, and system integration
+
+Which statement is a value from the Agile Manifesto?
+X Customer collaboration over contract negotiation
+Customer collaboration over a constant indefinite pace
+Customer collaboration over feature negotiation
+Customer collaboration over ongoing internal conversation
+
+Which core competency of the Lean Enterprise helps drive built-in quality practices?
+X DevOps and Release on Demand
+Lean Portfolio Management
+Team and Technical Agility
+Business Solutions and Lean Systems Engineering
+
+What is one of the Agile Release Train sync meetings?
+Iteration Retrospective
+Iteration Review
+Scrum of Scrums
+X Solution Demo
+
+What are the last three steps of the SAFe Implementation Roadmap?
+Launch trains, coach Agile Release Train execution, train executives and managers
+X Launch more Agile Release Trains and Value Streams, extend to the portfolio, sustain and improve
+Launch an Agile Release Train, extend to the portfolio, accelerate
+Train Lean-Agile change agents, identify value streams and Agile Release Trains, extend to the portfolio
+
+Which statement accurately characterizes Strategic Themes?
+They are requirements that span Agile Release Trains but must fit within a single Program Increment
+X They are a high-level summary of each program’s Vision and are updated after every PI
+They are large initiatives managed in the Portfolio Kanban that require Weighted Shortest Job First prioritization and a lightweight business case
+They are business objectives that connect the SAFe Portfolio to the Enterprise business strategy
+
+What can be used to map the current state of a portfolio?
+Portfolio Vision
+Portfolio Kanban
+Portfolio Backlog
+X Portfolio Canvas
+
+Who is responsible for the Solution Backlog?
+X Solution Train Engineer
+Solution Management
+Product Owners
+Product Management
+
+What is the last step in Kotter's approach to change management?
+X Anchor new approaches in the culture
+Consolidate gains and produce more wins
+Sustain and improve
+Generate short-term wins
+
+What is a valid reason for moving a PI objective to stretch?
+The team is unsure how to estimate the related stories using story points
+The team has high uncertainty about a third-party delivery needed for the objective
+The team does not have the knowledge or skills to deliver the objective
+X The team has no more time in the capacity but the objective has high business value
+
+What is part of the role of Product Management?
+To prioritize Enablers
+To prioritize the Program Backlog
+X To assign business value to features
+To facilitate backlog refinement session
+
+What is a Minimal Viable Product?
+A minimal product that can be built to achieve market dominance
+A minimal Feature that can be released to the market
+A minimal story a team can deliver in an iteration
+X A minimal product that can validate a hypothesis
+
+Which is an aspect of system thinking?
+The length of the queue impact the wait time
+X Optimizing a component does not optimize the system
+Cadence makes routine that which is routine
+Mastery drives intrinsic motivation
+
+
