@@ -16,3 +16,10 @@ Responsibilities of Product Management
 	Work with System Architect/Engineering to understand Enabler work
 	Participate in demos and Inspect and Adapt (I&A)
 	Build an effective Product Management/Product Owner team
+
+Lean Budget Guardrails 
+
+Guiding investments by horizon
+Optimizing value and solution integrity with capacity allocation
+Approving significant initiatives
+Continuous Business Owner engagement 
