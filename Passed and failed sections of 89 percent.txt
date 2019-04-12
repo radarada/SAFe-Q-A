@@ -1,0 +1,12 @@
+
+PASSED:
+SA4-PRACTICE SECTION 1: Introducing the Scaled Agile Framework	See Section 1 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 3: Establishing Team and Technical Agility	See Section 3 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 4: Experiencing PI Planning	See Section 4 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 8: Leading the transformation	See Section 8 Objectives in the Exam Study Guide for a breakdown of this section.
+
+FAILED:
+SA4-PRACTICE SECTION 2: Becoming a Lean-Agile Leader	See Section 2 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 5: Releasing On Demand with DevOpsD	See Section 5 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 6: Building Business Solutions and Lean Systems	See Section 6 Objectives in the Exam Study Guide for a breakdown of this section.
+SA4-PRACTICE SECTION 7: Implementing Lean Portfolio Management	See Section 7 Objectives in the Exam Study Guide for a breakdown of this section.
