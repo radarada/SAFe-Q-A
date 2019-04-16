@@ -229,7 +229,7 @@ Measure everything
 Respect for people and culture
 Visualize and limit WIP, reduce batch sizes, and manage queue lengths
 
-What can be used to map the current state of a portfolio?
+What can be used to map the current state of a portfolio? (CHECKED)
 X Portfolio Canvas
 Portfolio Kanban
 Portfolio Backlog
